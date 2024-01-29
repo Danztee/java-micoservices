@@ -1,4 +1,4 @@
-package com.danztee.customer;
+package com.danztee.fraud.customer;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

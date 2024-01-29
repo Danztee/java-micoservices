@@ -1,4 +1,4 @@
-package com.danztee.customer;
+package com.danztee.fraud.customer;
 
 public record CustomerRegistrationRequest(String firstName,String lastName,String email) {
 }
