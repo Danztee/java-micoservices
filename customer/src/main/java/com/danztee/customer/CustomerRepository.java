@@ -1,4 +1,4 @@
-package com.danztee.fraud.customer;
+package com.danztee.customer;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
